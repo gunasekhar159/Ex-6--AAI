@@ -1,5 +1,5 @@
-<H3>NAME: Shaik Sameer</H3>
-<H3>REGISTER NO : 212221240051</H3>
+<H3>NAME: M.Gunasekhar</H3>
+<H3>REGISTER NO : 212221240014</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:30/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
